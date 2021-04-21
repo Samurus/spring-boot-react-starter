@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d9ab764-b81b-43a1-bd2f-116e5484b076" name="Default Changelist" comment="price found filter" />
+    <list id="3c3c42df-ea43-448c-88da-00f5ceac62a7" name="Changes by Killi" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="feature/scryfall-prices" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/new-project/my-app" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1kNJOg8d41qA1nNc1zZIMvvisNg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2020.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/src/data/data-manager-copy.js" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\account-manager-frontend\src\data" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\account-manager-frontend\src\components" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src\components\listing" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src\components" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src\data" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src\components\table" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src\stock" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src" />
+      <recent name="C:\Users\achen\Documents\Programmierung\test\magicpricer\mkmWebClient-FE\src\components\listing" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.start">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="yarn install" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="install" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.yarn install" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+        <item itemvalue="npm.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d9ab764-b81b-43a1-bd2f-116e5484b076" name="Default Changelist" comment="" />
+      <created>1605535084251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605535084251</updated>
+      <workItem from="1605535085281" duration="812000" />
+      <workItem from="1605558427714" duration="53000" />
+      <workItem from="1605687183370" duration="23479000" />
+      <workItem from="1605996277212" duration="2993000" />
+      <workItem from="1606114644029" duration="50641000" />
+      <workItem from="1606373534970" duration="58385000" />
+      <workItem from="1606893887511" duration="30805000" />
+      <workItem from="1607069163042" duration="16459000" />
+      <workItem from="1607332632845" duration="10794000" />
+      <workItem from="1607526208701" duration="1259000" />
+      <workItem from="1607672925423" duration="14000" />
+      <workItem from="1607672984256" duration="12902000" />
+      <workItem from="1607810713133" duration="3460000" />
+      <workItem from="1607814327821" duration="2029000" />
+      <workItem from="1607859534398" duration="60477000" />
+      <workItem from="1608315086811" duration="678000" />
+      <workItem from="1608397845269" duration="889000" />
+      <workItem from="1610400658716" duration="741000" />
+      <workItem from="1612264518095" duration="433000" />
+      <workItem from="1613835977719" duration="870000" />
+      <workItem from="1615844390138" duration="30000" />
+      <workItem from="1619035069273" duration="1022000" />
+      <workItem from="1619036564334" duration="645000" />
+      <workItem from="1619038904710" duration="718000" />
+      <workItem from="1619039873413" duration="743000" />
+      <workItem from="1619040624059" duration="9000" />
+      <workItem from="1619040664975" duration="24000" />
+      <workItem from="1619040690205" duration="79000" />
+    </task>
+    <task id="LOCAL-00001" summary="min + max prices">
+      <created>1605915807571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605915807572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="primereact test">
+      <created>1606745353587</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606745353587</updated>
+    </task>
+    <task id="LOCAL-00003" summary="price found filter">
+      <created>1607726467739</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607726467739</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="min + max prices" />
+    <MESSAGE value="memory leak example" />
+    <MESSAGE value="primereact test" />
+    <MESSAGE value="price found filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="price found filter" />
+  </component>
+</project>
